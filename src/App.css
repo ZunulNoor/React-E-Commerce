@@ -1,0 +1,107 @@
+.Contact {
+    font-weight: 200px;
+    font-family: fantasy;
+}
+
+#home {
+    font-style: italic;
+    font-size: large;
+    font-family: sans-serif;
+    color: black;
+}
+
+#product {
+    font-style: italic;
+    font-size: large;
+    font-family: sans-serif;
+    color: black;
+}
+
+#contact {
+    font-style: italic;
+    font-size: large;
+    font-family: sans-serif;
+    color: black;
+}
+
+#ss {
+    font-style: italic;
+    font-size: x-large;
+    font-family: sans-serif;
+    color: black;
+}
+
+#username {
+    font-style: bold;
+    font-size: large;
+    font-family: sans-serif;
+    color: black;
+}
+
+.navbar {
+    background: linear-gradient(to left, rgb(238 75 68), rgb(255 181 56));
+    text-decoration: none;
+}
+
+.cartimg {
+    height: 50px;
+    width: 50px;
+}
+
+.main p {
+    margin-top: 1rem;
+    font-size: .98rem;
+}
+
+.social {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1.4rem;
+    margin-top: 1.7rem;
+}
+
+.social a {
+    color: black;
+    font-size: 1rem;
+    border: 1.6px solid black;
+    border-radius: 20%;
+    padding: .35rem;
+    text-align: center;
+    width: 26px;
+}
+
+.social a:hover {
+    color: #fff;
+    background-color: black;
+    transition: all .3s ease-in-out;
+}
+
+.footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background: linear-gradient(to right, rgb(238 75 68), rgb(255 181 56));
+}
+
+.zun {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+}
+
+@media screen and (max-width:620px) {
+    .headerp {
+        display: none;
+    }
+}
+@media screen and (max-width:870px) {
+    .page404 {
+        text-align: center;
+        margin: 0 auto;
+      }
+      
+      .page404 img {
+        display: block;
+        margin: 0 auto;
+      }
+    }
