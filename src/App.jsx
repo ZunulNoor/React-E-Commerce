@@ -14,7 +14,7 @@ import ProductPage from './pages/ProductPage'
 
 function App() {
 
-  const [user, setUser] = useState(false)
+  const [user, setUser] = useState(true)
 
   return (
     <>
