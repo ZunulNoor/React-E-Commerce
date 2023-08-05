@@ -15,11 +15,11 @@ export default function Contact() {
             </div>
                 <div className=" d-flex justify-content-center align-content-center">
             <div className='animate__animated animate__bounceInRight '>
-                    <ul className='social'>
-                        <p><a href=""><TbBrandFacebookFilled /></a></p>
-                        <p><a href=""><AiOutlineTwitter /></a></p>
-                        <p><a href=""><FaLinkedin /></a></p>
-                        <p><a href=""><RiInstagramLine /></a></p>
+               <ul className='social'>
+                        <p><a href="https://www.facebook.com/zun.noor.54?mibextid=ZbWKwL"><TbBrandFacebookFilled /></a></p>
+                        <p><a href="https://github.com/ZunulNoor"><FaGithub /></a></p>
+                        <p><a href="https://www.linkedin.com/in/zun-ul-noor-noor-864a88274"><FaLinkedin /></a></p>
+                        <p><a href="https://instagram.com/zun_ul_noor?utm_source=qr&igshid=NGExMmI2YTkyZg%3D%3D"><RiInstagramLine /></a></p>
                     </ul>
                 </div>
             </div>
