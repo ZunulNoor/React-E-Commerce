@@ -78,7 +78,7 @@
 
 .footer {
     position: absolute;
-/*     bottom: 0; */
+    bottom: 0;
     left: 0;
     width: 100%;
     background: linear-gradient(to right, rgb(238 75 68), rgb(255 181 56));
